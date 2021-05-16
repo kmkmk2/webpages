@@ -16,3 +16,5 @@ asciidoctor:
     - icons=font
 plugins:
     - jekyll-asciidoc
+url: https://kmkmk2.github.io
+baseurl: /webpages
